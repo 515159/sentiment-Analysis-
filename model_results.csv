@@ -1,0 +1,7 @@
+ML Algorithm,Accuracy
+Logistic Regression,0.6682
+Gradient Boosting,0.6318
+Multinomial Naive Bayes,0.5939
+Decision Tree,0.5545
+AdaBoost,0.4939
+KNN,0.2636
